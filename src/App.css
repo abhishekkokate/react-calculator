@@ -24,8 +24,28 @@ body{
     padding: 1rem;
 }
 
+.links{
+    margin: auto;
+    width: fit-content;
+    border-radius: 50px;
+    background-color: rgba(105, 105, 105, 0.596);
+    box-shadow: 2px 2px 16px 5px rgba(252, 252, 252, 0.6);
+}
+
+.links a{ 
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    padding-left: 8px;
+}
+
+.links img{
+    display: block;
+    width: 3rem;
+}
+
 .calculator-grid{
-    margin: 2rem auto;
+    margin: 1rem auto;
     width: fit-content;
     display: grid;
     grid-template-columns: repeat(4,6rem);
