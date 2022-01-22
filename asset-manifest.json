@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abhishekkokate.github.io/react-calculator/static/css/main.c6bb1750.css",
+    "main.js": "/abhishekkokate.github.io/react-calculator/static/js/main.d74344f5.js",
+    "index.html": "/abhishekkokate.github.io/react-calculator/index.html",
+    "main.c6bb1750.css.map": "/abhishekkokate.github.io/react-calculator/static/css/main.c6bb1750.css.map",
+    "main.d74344f5.js.map": "/abhishekkokate.github.io/react-calculator/static/js/main.d74344f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6bb1750.css",
+    "static/js/main.d74344f5.js"
+  ]
+}
